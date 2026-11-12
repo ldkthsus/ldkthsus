@@ -14,7 +14,7 @@
         :pushpin: 삼성 청년 SW 아카데미 자율 프로젝트 결선 발표회 우수상(전국 1등) </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECK STACKS </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STACKS </h2> <br> 
     <div  align= "center"> 
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
           <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
