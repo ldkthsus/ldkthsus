@@ -50,7 +50,7 @@
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=flat-square&logo=intellij-idea&logoColor=white">
       <img src="https://img.shields.io/badge/Android_Studio-4285F4?style=flat-square&logo=androidstudio&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=flat-square&logo=github&logoColor=000">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
