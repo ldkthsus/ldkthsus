@@ -15,6 +15,7 @@
         :pushpin: 삼성 청년 SW 아카데미 자율 프로젝트 결선 발표회 우수상(전국 1등) </div> 
     </div>
 	<br>
+	<br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STACKS </h2> <br>
 		<table>
