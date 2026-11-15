@@ -45,9 +45,9 @@
   </tr>
   <tr>
     <td align="center">운송 현장 암묵지<br>디지털 자산화 서비스</td>
-    <td align="center">응급 구조 실시간 보조 서비스</td>
-    <td align="center">식단 식비 통합 자동 관리 서비스</td>
-    <td align="center">대용량 중고 거래 라이브 커머스</td>
+    <td align="center">응급 구조 실시간<br>보조 서비스</td>
+    <td align="center">식단 식비 통합<br>자동 관리 서비스</td>
+    <td align="center">대용량 중고 거래<br>라이브 커머스</td>
   </tr>
 </table>
 	</div>
