@@ -18,12 +18,12 @@
 	<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :open_file_folder: PROJECTS</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-		<table>
+		<table width = "100%">
   <tr>
-    <td align="center"><img src="images/fieldguide.png" width="150"></td>
-    <td align="center"><img src="images/pushoflife_2.png" width="150"></td>
-    <td align="center"><img src="images/alleat_2.png" width="150"></td>
-    <td align="center"><img src="images/fleaon.png" width="150"></td>
+    <td align="center" width="25%"><img src="images/fieldguide.png" width="150"></td>
+    <td align="center" width="25%"><img src="images/pushoflife_2.png" width="150"></td>
+    <td align="center" width="25%"><img src="images/alleat_2.png" width="150"></td>
+    <td align="center" width="25%"><img src="images/fleaon.png" width="150"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/fieldguide-moveai/fieldguide">FieldGuide</a></td>
