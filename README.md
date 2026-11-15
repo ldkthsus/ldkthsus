@@ -54,7 +54,8 @@
 	</div>
 	<br>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STACKS </h2> <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STACKS </h2>
+	<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 		<table>
   <tr>
     <td><b>Language</b></td>
@@ -99,4 +100,5 @@
   </tr>
 </table>
     </div>
+	</div>
     
