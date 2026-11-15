@@ -15,6 +15,44 @@
         :pushpin: 삼성 청년 SW 아카데미 자율 프로젝트 결선 발표회 우수상(전국 1등) </div> 
     </div>
 	<br>
+	<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :open_file_folder: PROJECTS</h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+		<table>
+  <tr>
+    <td align="center"><img src="images/fieldguide.png" width="150"></td>
+    <td align="center"><img src="images/pushoflife.png" width="150"></td>
+    <td align="center"><img src="images/alleat.png" width="150"></td>
+    <td align="center"><img src="images/fleaon.png" width="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fieldguide-moveai/fieldguide">FieldGuide</a></td>
+    <td align="center"><a href="https://github.com/ldkthsus/PushOfLife">PushOfLife</a></td>
+    <td align="center"><a href="https://github.com/ldkthsus/AllEat">AllEat</a></td>
+    <td align="center"><a href="https://github.com/ldkthsus/FLEA-ON">Flea:ON</a></td>
+  </tr>
+  <tr>
+    <td align="center">26.08 ~ 26.08</td>
+    <td align="center">24.10 ~ 24.11</td>
+    <td align="center">24.08 ~ 24.10</td>
+    <td align="center">24.07 ~ 24.08</td>
+  </tr>
+  <tr>
+    <td align="center">BE, FE</td>
+    <td align="center">BE, DATA, MOBILE</td>
+    <td align="center">BE, DATA</td>
+    <td align="center">BE, AI</td>
+  </tr>
+  <tr>
+    <td align="center">운송 현장 암묵지<br>디지털 자산화 서비스</td>
+    <td align="center">응급 구조 실시간 보조 서비스</td>
+    <td align="center">식단 식비 통합 자동 관리 서비스</td>
+    <td align="center">대용량 중고 거래 라이브 커머스</td>
+  </tr>
+</table>
+	</div>
+	</div>
+	<br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STACKS </h2> <br>
 		<table>
