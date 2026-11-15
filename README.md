@@ -21,8 +21,8 @@
 		<table>
   <tr>
     <td align="center"><img src="images/fieldguide.png" width="150"></td>
-    <td align="center"><img src="images/pushoflife.png" width="150"></td>
-    <td align="center"><img src="images/alleat.png" width="150"></td>
+    <td align="center"><img src="images/pushoflife_2.png" width="150"></td>
+    <td align="center"><img src="images/alleat_2.png" width="150"></td>
     <td align="center"><img src="images/fleaon.png" width="150"></td>
   </tr>
   <tr>
